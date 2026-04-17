@@ -15,7 +15,7 @@
             android:id="@+id/buttonBack"
             android:layout_width="@dimen/icon_sides"
             android:layout_height="@dimen/icon_sides"
-            android:src="@drawable/arrow"
+            android:src="@drawable/ic_arrow_back_16"
             android:scaleType="center"
             />
         <TextView
@@ -64,7 +64,7 @@
         <ImageView
             android:layout_width="@dimen/icon_sides"
             android:layout_height="@dimen/icon_sides"
-            android:src="@drawable/share"
+            android:src="@drawable/ic_share_18"
             android:scaleType="center"
             />
     </LinearLayout>
@@ -84,7 +84,7 @@
         <ImageView
             android:layout_width="@dimen/icon_sides"
             android:layout_height="@dimen/icon_sides"
-            android:src="@drawable/group"
+            android:src="@drawable/ic_support_20"
             android:scaleType="center"
             />
 
@@ -105,7 +105,7 @@
         <ImageView
             android:layout_width="@dimen/icon_sides"
             android:layout_height="@dimen/icon_sides"
-            android:src="@drawable/vector"
+            android:src="@drawable/ic_arrow_forward_14"
             android:scaleType="center"
             />
 

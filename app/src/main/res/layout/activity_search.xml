@@ -14,7 +14,7 @@
             android:id="@+id/buttonBack"
             android:layout_width="16dp"
             android:layout_height="16dp"
-            android:src="@drawable/arrow"
+            android:src="@drawable/ic_arrow_back_16"
             />
         <TextView
             android:layout_width="match_parent"
